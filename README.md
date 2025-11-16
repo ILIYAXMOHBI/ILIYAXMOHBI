@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-#
-😈About Me:
+
+##😈About Me:
 👋 Hey, I’m ILIYA<br><br>💻 Future Web Developer & IT Specialist in Training<br>🎯 Passionate about HTML, CSS, Python & Modern Web Design<br>📚 Preparing for an IT Ausbildung in Germany<br>🎨 Learning Photoshop & UI Design<br>⚡️ Building real-world projects to level up my skills<br>
 
 
