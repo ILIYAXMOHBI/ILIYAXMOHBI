@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/af4fa4d9-7f58-45f1-b5f9-8802cb37d74e" />
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/af4fa4d9-7f58-45f1-b5f9-8802cb37d74e" />
 About Me:
 👋 Hey, I’m ILIYA<br><br>💻 Future Web Developer & IT Specialist in Training<br>🎯 Passionate about HTML, CSS, Python & Modern Web Design<br>📚 Preparing for an IT Ausbildung in Germany<br>🎨 Learning Photoshop & UI Design<br>⚡️ Building real-world projects to level up my skills<br>
 
